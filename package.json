@@ -1,0 +1,17 @@
+{
+  "name":        "firmata_hack",
+  "description": "None, yet",
+  "version":     "0.0.0",
+  "author": {
+    "name": "Andy Gelme"
+  },
+  "homepage": "http://www.github.com/geekscape/node_firmata_hack",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/geekscape/node_firmata_hack.git"
+  },
+  "main": "lib/firmata_hack",
+  "bugs": {
+    "url": "https://github.com/geekscape/firmata_hack/issues"
+  }
+}
